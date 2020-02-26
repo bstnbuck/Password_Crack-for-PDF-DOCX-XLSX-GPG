@@ -3,7 +3,6 @@
 
 There are four modes to decide: 1 = **PDF**, 2 = **DOCX/XLSX**, 3 = **GPG** and 11 = Simple Bruteforce of a password
 
-&nbsp;
 ## Installation
 To use this script, you have to install it's dependencies first. This can be done with the additional requirements file.
 To do so, run the command "pip install -r requirements.txt" in the folder where the requirements.txt file is placed.
