@@ -13,4 +13,6 @@ To do so, run the command "pip install -r requirements.txt" in the folder where 
 3. Now, depending on the length of the password, there may be a longer wait time. Please note: Word document with a 2-digit password takes about 1 minute!
 
 &nbsp;
-The Examples folder contains both encrypted and decrypted files.
+#### Informations
+* The Examples folder contains both encrypted and decrypted files.
+* The Code is self-explanatory commented
