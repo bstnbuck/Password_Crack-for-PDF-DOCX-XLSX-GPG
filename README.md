@@ -1,6 +1,7 @@
 # Password_Crack-for-PDF-DOCX-XLSX-GPG
 >**This program is designed exclusively to recover lost passwords from !PRIVATE or authorized! PDF, Word, Excel documents and GPG encrypted files. No liability is assumed for any damages.**
 
+This program has 3 functions to crack passwords. The 3 functions refer to the operating modes. However, the passwords should not be too long, because the cracking can last a long time depending on the mode.
 There are four modes to decide: 1 = **PDF**, 2 = **DOCX/XLSX**, 3 = **GPG** and 11 = Simple Bruteforce of a password
 
 ## Installation
