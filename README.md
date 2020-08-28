@@ -16,5 +16,6 @@ To do so, run the command "pip install -r requirements.txt" in the folder where 
 
 &nbsp;
 #### Information
+* If you want to crack Office files quickly, you can also use Office2John.py in combination with hashcat
 * The Examples folder contains both encrypted and decrypted files.
 * The Code is self-explanatory commented
